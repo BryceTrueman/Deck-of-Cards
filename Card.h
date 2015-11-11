@@ -1,11 +1,3 @@
-//
-//  Card.hpp
-//  Deck of Cards
-//
-//  Created by Bryce Trueman on 11/10/15.
-//  Copyright © 2015 ___BRYCETRUEMAN__. All rights reserved.
-//
-
 using namespace std;
 
 #ifndef Card_hpp
